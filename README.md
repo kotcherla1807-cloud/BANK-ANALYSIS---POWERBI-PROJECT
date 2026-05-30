@@ -156,4 +156,4 @@ Project Link
 
 Add your GitHub repository link here:
 
-https://github.com/your-username/Banking-Analytics-Dashboard
+[https://github.com/your-username/Banking-Analytics-Dashboard](https://github.com/kotcherla1807-cloud/BANK-ANALYSIS---POWERBI-PROJECT.git)
