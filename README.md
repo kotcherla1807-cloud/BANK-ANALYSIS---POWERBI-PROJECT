@@ -1,4 +1,47 @@
-# BANK-ANALYSIS---POWERBI-PROJECT
+Project Overview
+
+The Banking Analytics Dashboard is a Power BI project developed to analyze banking customer information and financial metrics. The dashboard provides insights into customer count, total balance, average credit score, risk status, and branch-wise performance analysis.
+
+This project helps in understanding customer banking behavior, identifying high-risk customers, monitoring branch performance, and supporting better decision-making using data visualization.
+
+Dashboard Preview
+
+(Add your dashboard screenshot here)
+
+Example:
+
+![Banking Analytics Dashboard](dashboard.png)
+
+You can upload your screenshot to GitHub and rename it as dashboard.png.
+
+Project Objective
+
+The main objective of this project is to:
+
+Analyze banking customer data
+Monitor branch-wise customer performance
+Calculate total balances and customer count
+Evaluate average credit scores
+Identify high-risk and low-risk customers
+Create interactive Power BI visualizations
+Tools & Technologies Used
+Power BI Desktop
+Microsoft Excel / CSV Dataset
+DAX (Data Analysis Expressions)
+Power Query
+Data Visualization Techniques
+Dataset Description
+
+The dataset contains customer banking information such as:
+
+Column Name	Description
+Customer_ID	Unique customer ID
+Customer_Name	Name of customer
+Branch	Bank branch location
+Balance	Customer account balance
+Credit Score	Customer credit score
+Risk_Status	High Risk / Low Risk
+Step-by-Step Process of the Project
 Step 1: Data Collection
 
 Collected banking customer data from dataset sources such as Excel/CSV files.
@@ -121,18 +164,3 @@ Dashboard Features
 ✔ Risk Analysis
 ✔ Branch-wise Comparison
 ✔ Customer Analytics
-
-Project Workflow
-Dataset Collection
-        ↓
-Data Cleaning
-        ↓
-Data Transformation
-        ↓
-DAX Measures Creation
-        ↓
-Dashboard Design
-        ↓
-Visualization & Insights
-        ↓
-Final Banking Analytics Dashboard
