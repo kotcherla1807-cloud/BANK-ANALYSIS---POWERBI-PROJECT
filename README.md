@@ -4,15 +4,6 @@ The Banking Analytics Dashboard is a Power BI project developed to analyze banki
 
 This project helps in understanding customer banking behavior, identifying high-risk customers, monitoring branch performance, and supporting better decision-making using data visualization.
 
-Dashboard Preview
-
-(Add your dashboard screenshot here)
-
-Example:
-
-![Banking Analytics Dashboard](dashboard.png)
-
-You can upload your screenshot to GitHub and rename it as dashboard.png.
 
 Project Objective
 
